@@ -4,6 +4,6 @@ using System.Collections;
 
 public class ExampleClass : MonoBehaviour {
     void Start() {
-        Debug.Log(Path.GetExtension("/Some/File/At/foo.extension"));
+        Debug.Log(Path.GetExtension("sdcard0/android/obb"));
     }
 }
