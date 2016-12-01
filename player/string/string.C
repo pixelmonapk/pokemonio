@@ -1,0 +1,1 @@
+GetPersistentMethodName(int index);
